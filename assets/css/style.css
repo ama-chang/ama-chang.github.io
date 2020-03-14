@@ -11,7 +11,7 @@
 body {
   background: #ffffff;
   color: #898989;
-  font-family: 'Poppins', helvetica;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 15px;
   font-weight: 300;
   line-height: 20px;
@@ -180,7 +180,7 @@ nav {
 nav ul li {
   float: left;
   margin-right: 15px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 14px;
   margin-left: 40px;
 }
@@ -191,7 +191,7 @@ nav ul li a {
   display: block;
   font-size: 14px;
   color: #999999;
-  font-family: 'Poppins', helvetica;
+  font-family: 'Noto Sans JP', sans-serif;
   font-weight: 500;
   line-height: 16px;
   text-transform: uppercase;
@@ -289,7 +289,7 @@ nav ul li a {
 }
 
 #about .about-descr .p-heading {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 28px;
   text-align: left;
 }
@@ -389,7 +389,7 @@ nav ul li a {
   color: #999999;
   line-height: 16px;
   cursor: pointer;
-  font-family: 'Poppins', helvetica;
+  font-family: 'Noto Sans JP', sans-serif;
   font-weight: 500;
   letter-spacing: 0.02em;
   text-transform: capitalize;
